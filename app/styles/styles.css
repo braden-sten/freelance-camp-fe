@@ -1,7 +1,9 @@
 body {
-	background-color: #252830
+	background-color: #252830;
+	font-family: 'Karma', serif;
 }
 
 .headline {
 	color: white;
 }
+
